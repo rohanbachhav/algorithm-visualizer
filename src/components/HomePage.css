@@ -1,0 +1,22 @@
+.home-page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.algorithm-options {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.algorithm-options a {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.algorithm-options a:hover {
+  background-color: #45a049;
+}

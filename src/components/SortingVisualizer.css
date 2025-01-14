@@ -1,0 +1,32 @@
+.sorting-visualizer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.controls {
+  margin-bottom: 30px;
+}
+
+.controls button {
+  padding: 10px 15px;
+  margin: 0 10px;
+  background-color: #4caf50;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.controls button:disabled {
+  background-color: gray;
+}
+
+.array-bars {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.bar {
+  margin: 0 1px;
+  background-color: #4caf50;
+}
